@@ -1,0 +1,9 @@
+com\example\studentmanagement\entity\Student.class
+com\example\studentmanagement\common\Result.class
+com\example\studentmanagement\mapper\StudentMapper.class
+com\example\studentmanagement\controller\StudentController.class
+com\example\studentmanagement\entity\StudentQuery.class
+com\example\studentmanagement\service\impl\StudentServiceImpl.class
+com\example\studentmanagement\StudentManagementApplication.class
+com\example\studentmanagement\entity\PageResult.class
+com\example\studentmanagement\service\StudentService.class
